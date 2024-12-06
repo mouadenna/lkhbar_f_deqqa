@@ -1,3 +1,3 @@
 # lkhbar_f_deqqa
 
-<img src="Workflow.svg" alt="Workflow Chart" width="800"/>
+<img src="Workflow.svg" alt="Workflow Chart" width="900"/>
