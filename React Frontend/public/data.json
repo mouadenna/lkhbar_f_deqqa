@@ -1,0 +1,836 @@
+{
+  "Politique_Nationale": {
+      "clusters": [
+          {
+              "summary": "Le Maroc a lanc\u00e9 un appel d'offres pour une usine de dessalement de 250 millions de m\u00e8tres cubes en 2023. L'usine de Nador, dans l'Oriental, sera la deuxi\u00e8me plus grande du pays apr\u00e8s celle de Casablanca, a soulign\u00e9 le ministre. La Chine Hailiang Changsha a \u00e9galement sign\u00e9 un contrat avec le directeur g\u00e9n\u00e9ral de la soci\u00e9t\u00e9 publique Nador West Med.",
+              "sources_info": [
+                  {
+                      "source": "l'oponion",
+                      "date": "2024-11-03",
+                      "url": "https://www.lopinion.ma/\u200bStation-de-dessalement-d-eau-de-mer-de-Nador-Nador-West-Med-signe-un-contrat-avec-China-Hailiang_a59760.html",
+                      "title": "\u200bStation de dessalement d'eau de mer de Nador : Nador West Med signe un contrat avec China Hailiang"
+                  }
+              ],
+              "keywords": [
+                  "nador",
+                  "contrat",
+                  "dessalement",
+                  "eau",
+                  "west"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 932.0
+              }
+          },
+          {
+              "summary": "La Russie revoit \u00e0 la hausse les droits d'exportation sur le bl\u00e9 russe et le m\u00e9teil. Les nouveaux tarifs seront applicables \u00e0 partir du 7 novembre 2024, selon l'agence de presse russe TASS. Le Maroc devrait importer 5 millions de tonnes de bl\u00e9 tendre apr\u00e8s que sa propre r\u00e9colte ait \u00e9t\u00e9 faible en raison de la s\u00e9cheresse. La Russie devrait devenir le premier fournisseur de ce produit agricole.",
+              "sources_info": [
+                  {
+                      "source": "l'oponion",
+                      "date": "2024-11-03",
+                      "url": "https://www.lopinion.ma/\u200bApprovisionnement-en-ble-du-Maroc-La-Russie-revoit-a-la-hausse-les-droits-d-exportation_a59755.html",
+                      "title": "\u200bApprovisionnement en bl\u00e9 du Maroc : La Russie revoit \u00e0 la hausse les droits d'exportation"
+                  }
+              ],
+              "keywords": [
+                  "bl\u00e9",
+                  "exportation",
+                  "dollars",
+                  "roubles",
+                  "droits"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 1764.0
+              }
+          },
+          {
+              "summary": "L'investissement fait partie d'un programme gouvernemental relatif \u00e0 la promotion de la langue amazighe au sein de l'administration. Il vise \u00e0 am\u00e9liorer l\u2019accueil des usagers amazighophones et \u00e0 d\u00e9velopper leur connaissance du vocabulaire en tifinagh. Il s'agit \u00e9galement de mettre en place des services t\u00e9l\u00e9phoniques en amazzhe dans les centres d\u2019appels.",
+              "sources_info": [
+                  {
+                      "source": "l'oponion",
+                      "date": "2024-11-03",
+                      "url": "https://www.lopinion.ma/200-millions-de-DH-pour-renforcer-l-usage-de-l-amazigh-dans-l-administration-publique-en-2025_a59739.html",
+                      "title": "200 millions de DH pour renforcer l'usage de l'amazigh dans l'administration publique en 2025"
+                  }
+              ],
+              "keywords": [
+                  "amazighe",
+                  "administration",
+                  "int\u00e9gration",
+                  "communication",
+                  "num\u00e9rique"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 3032.0
+              }
+          },
+          {
+              "summary": "Le minist\u00e8re de la Justice a pris une d\u00e9cision historique portant sur la cr\u00e9ation et l'organisation de nouvelles directions r\u00e9gionales de la justice. Les nouvelles directions seront d\u00e9ploy\u00e9es dans les juridictions de chaque cour d'appel. Selon une source, cette initiative marque une avanc\u00e9e majeure dans la strat\u00e9gie du Minist\u00e8re visant \u00e0 adapter les politiques sectorielles aux sp\u00e9cificit\u00e9s locales. La nouvelle initiative vise \u00e9galement \u00e0 am\u00e9liorer la gestion des archives judiciaires, facilitant ainsi les proc\u00e9dures judiciaires.",
+              "sources_info": [
+                  {
+                      "source": "l'oponion",
+                      "date": "2024-11-02",
+                      "url": "https://www.lopinion.ma/Le-ministere-de-la-Justice-cree-des-directions-regionales-pour-decentraliser-l-administration-judiciaire_a59722.html",
+                      "title": "Le minist\u00e8re de la Justice cr\u00e9e des directions r\u00e9gionales pour d\u00e9centraliser l'administration judiciaire"
+                  }
+              ],
+              "keywords": [
+                  "justice",
+                  "directions",
+                  "r\u00e9gionales",
+                  "minist\u00e8re",
+                  "administration"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "02/11/2024",
+                      "end": "02/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 2532.0
+              }
+          },
+          {
+              "summary": "Le minist\u00e8re de l'Int\u00e9rieur a intensifi\u00e9 ses efforts pour mettre un terme \u00e0 l\u2019utilisation abusive des ambulances par certains pr\u00e9sidents de conseils locaux et \u00e9lus. Ils d\u00e9tournent ces v\u00e9hicules \u00e0 des fins \u00e9lectorales au d\u00e9triment de la sant\u00e9 des citoyens. Les enqu\u00eates men\u00e9es par Hespress ont r\u00e9v\u00e9l\u00e9 une tendance inqui\u00e9tante selon laquelle les pr\u00e9sidents utilisent les ambulances pour promouvoir leurs int\u00e9r\u00eats politiques.",
+              "sources_info": [
+                  {
+                      "source": "Hespress",
+                      "date": "2024-11-03",
+                      "url": "https://fr.hespress.com/394256-ambulances-linterieur-enquete-sur-leur-utilisation-abusive-a-des-fins-electorales.html",
+                      "title": "Ambulances : L'Int\u00e9rieur enqu\u00eate sur leur utilisation abusive \u00e0 des fins \u00e9lectorales"
+                  }
+              ],
+              "keywords": [
+                  "ambulances",
+                  "pr\u00e9sidents",
+                  "citoyens",
+                  "patients",
+                  "int\u00e9rieur"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 3299.0
+              }
+          },
+          {
+              "summary": "Barcelone a battu l'Espanyol 3-1 pour consolider son statut de leader en la 12e journ\u00e9e de la Ligue. Dani Olmo a lanc\u00e9 son \u00e9quipe d\u00e8s la 12\u00e8me minute en reprenant un superbe ext\u00e9rieur du pied. Le Br\u00e9silien Raphinha, en grande forme cette saison, a marqu\u00e9 deux fois pour mettre fin \u00e0 l\u2019action collective.",
+              "sources_info": [
+                  {
+                      "source": "Hespress",
+                      "date": "2024-11-03",
+                      "url": "https://fr.hespress.com/394300-liga-le-fc-barcelone-ecrase-lespanyol-et-conforte-son-statut-de-leader.html",
+                      "title": "Liga : le FC Barcelone \u00e9crase l\u2019Espanyol et conforte son statut de leader"
+                  }
+              ],
+              "keywords": [
+                  "liga",
+                  "barcelone",
+                  "espanyol",
+                  "leader",
+                  "points"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 1217.0
+              }
+          },
+          {
+              "summary": "Les hauteurs de pluie enregistr\u00e9es ces derni\u00e8res 24 heures comprennent : \u2013 Bouarfa : 03 \u2013 Ifrane : 01 \u2013 Tit Mellil, Rabat, Sidi Slimane, Settat, Mekn\u00e8s, Marrakech et T\u00e9touan : moins d'un millim\u00e8tre. La direction g\u00e9n\u00e9rale de la m\u00e9t\u00e9orologie a relev\u00e9 les hauteurs en millim\u00e8tres au cours des derni\u00e8res heures.",
+              "sources_info": [
+                  {
+                      "source": "Hespress",
+                      "date": "2024-11-03",
+                      "url": "https://fr.hespress.com/394291-les-hauteurs-de-pluie-enregistrees-ces-dernieres-24-heures.html",
+                      "title": "Les hauteurs de pluie enregistr\u00e9es ces derni\u00e8res 24 heures"
+                  }
+              ],
+              "keywords": [
+                  "hauteurs",
+                  "pluie",
+                  "derni\u00e8res",
+                  "heures",
+                  "tan"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 289.0
+              }
+          },
+          {
+              "summary": "La 7e \u00e9dition du Salon international de l\u2019a\u00e9ronautique et du spatial \u00ab Marrakech Air Show \u00bb (MAS 2024) a \u00e9t\u00e9 marqu\u00e9e par un spectacle \u00e9poustouflant de la patrouille de vol \u00ab Marche verte \u00bb. Le public a scrut\u00e9 le ciel pour admirer le spectacle in\u00e9dit de \u00ab l'\u00e9toile ch\u00e9rifienne \u00bb, symbolisant le coeur du drapeau national.",
+              "sources_info": [
+                  {
+                      "source": "Hespress",
+                      "date": "2024-11-03",
+                      "url": "https://fr.hespress.com/394263-marrakech-air-show-un-spectacle-epoustouflant-de-la-patrouille-de-voltige-marche-verte-en-cloture.html",
+                      "title": "Marrakech Air Show: un spectacle \u00e9poustouflant de la patrouille de voltige \u00ab Marche verte \u00bb en cl\u00f4ture"
+                  }
+              ],
+              "keywords": [
+                  "air",
+                  "show",
+                  "spectacle",
+                  "d\u00e9monstrations",
+                  "patrouille"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 1928.0
+              }
+          },
+          {
+              "summary": "Le roi Felipe VI d'Espagne et son \u00e9pouse, la reine Letizia, sont arriv\u00e9s dimanche \u00e0 Paiporta, pr\u00e8s de Valence, l'une des villes les plus touch\u00e9es par les inondations qui ont ravag\u00e9 cette semaine le sud-est du pays. Ils ont \u00e9t\u00e9 pris \u00e0 part par la foule, qui leur a jet\u00e9 de la boue au visage.",
+              "sources_info": [
+                  {
+                      "source": "Hespress",
+                      "date": "2024-11-03",
+                      "url": "https://fr.hespress.com/394280-inondations-en-espagne-la-foule-jette-de-la-boue-au-visage-du-roi-felipe-vi-et-de-la-reine-letizia.html",
+                      "title": "Inondations en Espagne: la foule jette de la boue au visage du roi Felipe VI et de la reine Letizia"
+                  }
+              ],
+              "keywords": [
+                  "roi",
+                  "espagne",
+                  "felipe",
+                  "boue",
+                  "reine"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 660.0
+              }
+          },
+          {
+              "summary": "L'arm\u00e9e et la police gagnent la confiance des Marocains, le gouvernement moins. Une \u00e9tude d'Afrobarom\u00e8tre a r\u00e9v\u00e9l\u00e9 que les Marocains accordent une grande confiance \u00e0 certaines institutions de leur pays. En moyenne, les citoyens africains ne font confiance qu'\u00e0 trois principales institutions : les leaders religieux, qui jouissent d\u2019un taux de confiance de 61 %.",
+              "sources_info": [
+                  {
+                      "source": "Hespress",
+                      "date": "2024-11-03",
+                      "url": "https://fr.hespress.com/394228-etude-afrobarometre-larmee-et-la-police-gagnent-la-confiance-des-marocains-le-gouvernement-moins.html",
+                      "title": "\u00c9tude Afrobarom\u00e8tre : l'arm\u00e9e et la police gagnent la confiance des Marocains, le gouvernement moins"
+                  }
+              ],
+              "keywords": [
+                  "confiance",
+                  "marocains",
+                  "citoyens",
+                  "africains",
+                  "afrobarom\u00e8tre"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 2722.0
+              }
+          },
+          {
+              "summary": "Recherch\u00e9 par Paris, un Franco-Alg\u00e9rien arr\u00eat\u00e9 au Maroc Article body not found. Paris a \u00e9t\u00e9 l'un des premiers \u00e0 arr\u00eater un franco-alg\u00e9rien en Alg\u00e9rie \u00e0 la suite d'un diff\u00e9rend. Le Maroc n'a pas \u00e9t\u00e9 en mesure de faire des commentaires et a d\u00e9clar\u00e9 qu'il ne s'agissait peut-\u00eatre pas de la France.",
+              "sources_info": [
+                  {
+                      "source": "le360",
+                      "date": "2024-11-02",
+                      "url": "https://fr.le360.ma/politique/recherche-par-paris-un-franco-algerien-arrete-au-maroc_AATO5I2VJFEAHHEEEZ54L7VSWE/",
+                      "title": "Recherch\u00e9 par Paris, un Franco-Alg\u00e9rien arr\u00eat\u00e9 au Maroc"
+                  }
+              ],
+              "keywords": [
+                  "recherch\u00e9",
+                  "paris",
+                  "arr\u00eat\u00e9",
+                  "maroc",
+                  "article"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "02/11/2024",
+                      "end": "02/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 22.0
+              }
+          },
+          {
+              "summary": "Les r\u00e9percussions politiques et \u00e9conomiques de la visite de Macron au Maroc expliqu\u00e9es par Christian Cambon. Cambon, grand amoureux du Royaume-Uni, explique comment sa visite au Maroc a eu un impact sur l'\u00e9conomie. Le corps de Macron n'a pas encore \u00e9t\u00e9 retrouv\u00e9 dans la r\u00e9gion o\u00f9 il a visit\u00e9 son pays d'origine. L'homme a subi une blessure \u00e0 la t\u00eate lors de la d\u00e9couverte de son corps.",
+              "sources_info": [
+                  {
+                      "source": "le360",
+                      "date": "2024-11-02",
+                      "url": "https://fr.le360.ma/politique/les-impacts-politique-et-economique-de-la-visite-de-macron-au-maroc-expliques-par-christian-cambon_VMVRBELBTBGSBGIDET3K4DO7MQ/",
+                      "title": "Les impacts politique et \u00e9conomique de la visite de Macron au Maroc expliqu\u00e9s par Christian Cambon, grand amoureux du Royaume"
+                  }
+              ],
+              "keywords": [
+                  "impacts",
+                  "politique",
+                  "\u00e9conomique",
+                  "visite",
+                  "macron"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "02/11/2024",
+                      "end": "02/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 22.0
+              }
+          },
+          {
+              "summary": "Le \u00abpartenariat d\u2019exception renforc\u00e9\u00bb passe par Bruxelles Bruxelles Article body not found. Bruxelles Article organe non trouv\u00e9 n\u2019est pas trouv\u00e9 \u00e0 Bruxelles Article organisme n'a pas \u00e9t\u00e9 trouv\u00e9 dans l'\u00c9tat membre o\u00f9 il a \u00e9t\u00e9 \u00e9tabli. Le \u00abparlement d'exception r\u00e9form\u00e9\u00bb est pass\u00e9 par la Cour supr\u00eame du Royaume-Uni en raison de sa difficult\u00e9 \u00e0 obtenir un emploi.",
+              "sources_info": [
+                  {
+                      "source": "le360",
+                      "date": "2024-11-02",
+                      "url": "https://fr.le360.ma/politique/le-chemin-du-partenariat-dexception-renforce-passe-par-bruxelles_QGMXJUF2FZHWHD6Z42QPUJWWYY/",
+                      "title": "Le chemin du \u00abpartenariat d\u2019exception renforc\u00e9\u00bb passe par Bruxelles"
+                  }
+              ],
+              "keywords": [
+                  "chemin",
+                  "partenariat",
+                  "exception",
+                  "renforc\u00e9",
+                  "passe"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "02/11/2024",
+                      "end": "02/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 22.0
+              }
+          },
+          {
+              "summary": "Le Maroc a-t-il \u00e0 gagner? Le pr\u00e9sident obama ou charles hebdomadaire n'a pas trouv\u00e9 d'article \u00e0 l'intention des \u00c9tats-Unis. Le Maroc est en t\u00eate de la liste am\u00e9ricaine des \u00e9lecteurs am\u00e9ricains pour les \u00e9lections pr\u00e9sidentielles am\u00e9ricaines. Le pays a eu l\u2019occasion d\u2019annoncer sa candidature \u00e0 la pr\u00e9sidence am\u00e9ricaine.",
+              "sources_info": [
+                  {
+                      "source": "le360",
+                      "date": "2024-11-01",
+                      "url": "https://fr.le360.ma/politique/elections-americaines-trump-ou-harris-le-maroc-a-t-il-a-y-gagner_KBQAMSIDIZBKPHHQVA73FZEZ5Q/",
+                      "title": "\u00c9lections am\u00e9ricaines: Trump ou Harris, le Maroc a-t-il \u00e0 y gagner?"
+                  }
+              ],
+              "keywords": [
+                  "\u00e9lections",
+                  "am\u00e9ricaines",
+                  "trump",
+                  "harris",
+                  "maroc"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "01/11/2024",
+                      "end": "01/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 22.0
+              }
+          }
+      ],
+      "total_articles": 14
+  },
+  "Economie_Maroc": {
+      "clusters": [
+          {
+              "summary": "La superficie plant\u00e9e en palmiers dattiers dans ces oasis s'\u00e9l\u00e8ve \u00e0 environ 2.627 hectares, affirme la DRA. La fili\u00e8re pho\u00e9nicicole de la province de Figuig g\u00e9n\u00e8re un chiffre d\u2019affaires estim\u00e9 \u00e0 398 millions de dirhams. Le projet hydro-agricole a permis de renforcer l\u2019approvisionnement en eau dans les anciennes oasis.",
+              "sources_info": [
+                  {
+                      "source": "l'oponion",
+                      "date": "2024-11-03",
+                      "url": "https://www.lopinion.ma/Oasis-de-Figuig-La-production-previsionnelle-des-dattes-estimee-a-8-000-tonnes-pour-la-campagne-2023-2024_a59746.html",
+                      "title": "Oasis de Figuig : La production pr\u00e9visionnelle des dattes estim\u00e9e \u00e0 8.000 tonnes pour la campagne 2023-2024"
+                  },
+                  {
+                      "source": "Hespress",
+                      "date": "2024-11-03",
+                      "url": "https://fr.hespress.com/394260-oasis-de-figuig-la-production-des-dattes-estimee-a-8-000-tonnes-pour-la-campagne-2023-2024.html",
+                      "title": "Oasis de Figuig : La production des dattes estim\u00e9e \u00e0 8.000 tonnes pour la campagne 2023-2024"
+                  }
+              ],
+              "keywords": [
+                  "figuig",
+                  "dattes",
+                  "oasis",
+                  "millions",
+                  "dra"
+              ],
+              "metrics": {
+                  "article_count": 2,
+                  "unique_sources": 2,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 3531.0
+              }
+          },
+          {
+              "summary": "Kamala Harris et Donald Trump jettent leurs derni\u00e8res forces dans une fin de campagne pr\u00e9sidentielle am\u00e9ricaine anxiog\u00e8ne pour les \u00c9tats-Unis. La vice-pr\u00e9sidente d\u00e9mocratique pourrait devenir la premi\u00e8re femme pr\u00e9sidente de ce pays de plus de 345 millions d'habitants. L'ancien locataire r\u00e9publicain de la Maison Blanche, qui r\u00eave de retourner, se rend en campagne pour convaincre les ind\u00e9cis.",
+              "sources_info": [
+                  {
+                      "source": "Hespress",
+                      "date": "2024-11-03",
+                      "url": "https://fr.hespress.com/394242-harris-et-trump-jettent-leurs-dernieres-forces-dans-une-fin-de-campagne-anxiogene.html",
+                      "title": "Harris et Trump jettent leurs derni\u00e8res forces dans une fin de campagne anxiog\u00e8ne"
+                  }
+              ],
+              "keywords": [
+                  "trump",
+                  "campagne",
+                  "harris",
+                  "etats",
+                  "pr\u00e9sidente"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 4560.0
+              }
+          },
+          {
+              "summary": "Le th\u00e8me retenu pour le 16e Colloque international des finances publiques est \u00ab Vers une meilleure restructuration du mod\u00e8le de la gouvernance financi\u00e8re publique au Maroc et en France \u00bb. Le Tr\u00e9sorier g\u00e9n\u00e9ral du Royaume, Noureddine Bensouda, revient sur la n\u00e9cessit\u00e9 de repenser la gestion des ressources. Il y a des chocs multiples dans diff\u00e9rents domaines, que ce soit les finances de l'\u00c9tat, les finances territoriales ou les finances sociales en g\u00e9n\u00e9ral.",
+              "sources_info": [
+                  {
+                      "source": "Hespress",
+                      "date": "2024-11-03",
+                      "url": "https://fr.hespress.com/394249-noureddine-bensouda-repenser-la-gouvernance-des-finances-publiques-face-aux-crises-et-incertitudes.html",
+                      "title": "Noureddine Bensouda : repenser la gouvernance des finances publiques face aux crises et incertitudes"
+                  }
+              ],
+              "keywords": [
+                  "finances",
+                  "pays",
+                  "publiques",
+                  "budget",
+                  "maroc"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 10081.0
+              }
+          }
+      ],
+      "total_articles": 4
+  },
+  "Social_Maroc": {
+      "clusters": [
+          {
+              "summary": "L'universit\u00e9 Al Qaraouiyine continue de remplir son r\u00f4le scientifique et \u00e9ducatif, affirme le pr\u00e9sident. Amal Jallal affirme que l'universit\u00e9 est devenue une \u00e9tape incontournable dans le mouvement des \u00e9rudits d'Andalousie, du Machreq, de la ville de F\u00e8s vers ces contr\u00e9es. Il a d\u00e9clar\u00e9 que cette \u00e9volution \u00e9tait un grand \u00e9v\u00e9nement dans leur vie.",
+              "sources_info": [
+                  {
+                      "source": "Hespress",
+                      "date": "2024-11-03",
+                      "url": "https://fr.hespress.com/394227-fes-luniversite-al-qaraouiyine-continue-de-remplir-son-role-scientifique-et-educatif.html",
+                      "title": "F\u00e8s : L'universit\u00e9 Al Qaraouiyine continue de remplir son r\u00f4le scientifique et \u00e9ducatif"
+                  }
+              ],
+              "keywords": [
+                  "universit\u00e9",
+                  "qaraouiyine",
+                  "f\u00e8s",
+                  "scientifique",
+                  "machreq"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 2754.0
+              }
+          },
+          {
+              "summary": "La s\u00e9cheresse s\u00e9v\u00e8re au Maroc a frapp\u00e9 le pays depuis pr\u00e8s de six ans. Les professionnels du secteur de l'\u00e9levage craignent que les importations ne suffisent pas \u00e0 freiner la flamb\u00e9e des prix. Le pr\u00e9sident de la FMAFE, Mohamed Jebli, a d\u00e9clar\u00e9 que la viande rouge import\u00e9e n'aura que peu d'effet sur le march\u00e9 marocain.",
+              "sources_info": [
+                  {
+                      "source": "Hespress",
+                      "date": "2024-11-03",
+                      "url": "https://fr.hespress.com/394232-viande-rouge-les-importations-jugees-insuffisantes-pour-freiner-la-hausse-des-prix-selon-les-professionnels.html",
+                      "title": "Viande rouge : les importations insuffisantes pour freiner la hausse des prix"
+                  }
+              ],
+              "keywords": [
+                  "viande",
+                  "prix",
+                  "hausse",
+                  "march\u00e9",
+                  "\u00e9levage"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 2177.0
+              }
+          },
+          {
+              "summary": "Les syndicats accusent les syndicats de tenir un double discours Droit de gr\u00e8ve : les d\u00e9put\u00e9s reprochent aux syndicats d'avoir agi de fa\u00e7on erron\u00e9e. Article article body not found in cnn's john mccartney's book \"the fbi's and the bbc's\" on thursday, october 20 at a u.s.",
+              "sources_info": [
+                  {
+                      "source": "le360",
+                      "date": "2024-11-01",
+                      "url": "https://fr.le360.ma/politique/droit-de-greve-des-deputes-accusent-les-syndicats-de-tenir-un-double-discours_OWH5G2KXINFX3BB3IVWBYMHLP4/",
+                      "title": "Droit de gr\u00e8ve: des d\u00e9put\u00e9s accusent les syndicats de tenir un double discours"
+                  }
+              ],
+              "keywords": [
+                  "droit",
+                  "gr\u00e8ve",
+                  "d\u00e9put\u00e9s",
+                  "accusent",
+                  "syndicats"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "01/11/2024",
+                      "end": "01/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 22.0
+              }
+          }
+      ],
+      "total_articles": 3
+  },
+  "International_Maroc": {
+      "clusters": [
+          {
+              "summary": "La proposition alg\u00e9rienne de partition du Sahara marocain est un exutoire habituel \u00e0 ses d\u00e9boires diplomatiques. Hilale a expos\u00e9 trois \u00e9l\u00e9ments pour mieux appr\u00e9hender la position du Maroc et clore le d\u00e9bat sur une proposition alg\u00e8bre mort-n\u00e9e. L'Alg\u00e9rie s'est retir\u00e9e du vote apr\u00e8s le nouveau coup de gr\u00e2ce de la R\u00e9solution onusienne (2756) prorogeant le mandat de la MINURSO.",
+              "sources_info": [
+                  {
+                      "source": "l'oponion",
+                      "date": "2024-11-03",
+                      "url": "https://www.lopinion.ma/Sahara-marocain-Revers-decisif-de-l-Algerie-au-Conseil-de-Securite_a59762.html",
+                      "title": "Sahara marocain : Revers d\u00e9cisif de l\u2019Alg\u00e9rie au Conseil de S\u00e9curit\u00e9"
+                  },
+                  {
+                      "source": "l'oponion",
+                      "date": "2024-11-03",
+                      "url": "https://www.lopinion.ma/Hilale-La-proposition-algerienne-de-partition-du-Sahara-marocain-est-un-exutoire-habituel-a-ses-deboires-diplomatiques_a59738.html",
+                      "title": "Hilale: La proposition alg\u00e9rienne de partition du Sahara marocain est un exutoire habituel \u00e0 ses d\u00e9boires diplomatiques"
+                  },
+                  {
+                      "source": "l'oponion",
+                      "date": "2024-11-02",
+                      "url": "https://www.lopinion.ma/Indemnisation-des-agriculteurs-marocains-en-Irak-Nasser-Bourita-fait-le-point_a59717.html",
+                      "title": "Indemnisation des agriculteurs marocains en Irak : Nasser Bourita fait le point"
+                  },
+                  {
+                      "source": "Hespress",
+                      "date": "2024-11-03",
+                      "url": "https://fr.hespress.com/394225-hilale-la-proposition-algerienne-de-partition-du-sahara-marocain-est-un-exutoire-habituel-a-ses-deboires-diplomatiques.html",
+                      "title": "Hilale: La proposition alg\u00e9rienne de partition du Sahara marocain est un exutoire habituel \u00e0 ses d\u00e9boires diplomatiques"
+                  },
+                  {
+                      "source": "le360",
+                      "date": "2024-11-03",
+                      "url": "https://fr.le360.ma/politique/xavier-drientcourt-en-algerie-pourquoi-le-hirak-ne-ressuscitera-pas-et-le-regime-durera_QBMX6U2F3BA3HGN2CJN2A3O3JE/",
+                      "title": "Xavier Driencourt: en Alg\u00e9rie, pourquoi le Hirak ne ressuscitera pas et le r\u00e9gime durera"
+                  },
+                  {
+                      "source": "le360",
+                      "date": "2024-11-01",
+                      "url": "https://fr.le360.ma/politique/resolution-sur-le-sahara-voici-pourquoi-lambassadeur-algerien-a-fui-le-vote-au-conseil-de-securite_GVAESBSTXVHMFLI6OBBCD2DSAQ/",
+                      "title": "R\u00e9solution sur le Sahara: voici pourquoi l'ambassadeur alg\u00e9rien a fui le vote au Conseil de s\u00e9curit\u00e9"
+                  },
+                  {
+                      "source": "le360",
+                      "date": "2024-11-01",
+                      "url": "https://fr.le360.ma/politique/omar-hilale-le-show-affligeant-du-representant-de-lalgerie-au-conseil-de-securite-confirme-la_GF5B4DYZOZBJDBYTQMQW47YGXI/",
+                      "title": "Omar Hilale commente le show affligeant du repr\u00e9sentant de l\u2019Alg\u00e9rie au Conseil de s\u00e9curit\u00e9"
+                  },
+                  {
+                      "source": "le360",
+                      "date": "2024-11-01",
+                      "url": "https://fr.le360.ma/politique/au-conseil-de-securite-la-france-reitere-que-le-present-et-lavenir-du-sahara-sinscrivent-dans-le_QQZZO32O6FEFTPCWOQJFHRQDTA/",
+                      "title": "Au Conseil de s\u00e9curit\u00e9, la France r\u00e9it\u00e8re que \u00able pr\u00e9sent et l\u2019avenir\u00bb du Sahara s\u2019inscrivent dans le cadre de la souverainet\u00e9 marocaine"
+                  }
+              ],
+              "keywords": [
+                  "proposition",
+                  "sahara",
+                  "alg\u00e9rie",
+                  "partition",
+                  "hilale"
+              ],
+              "metrics": {
+                  "article_count": 8,
+                  "unique_sources": 3,
+                  "temporal_span": {
+                      "start": "01/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 3
+                  },
+                  "average_article_length": 1418.0
+              }
+          },
+          {
+              "summary": "La r\u00e9forme des finances publiques contribuera \u00e0 un d\u00e9veloppement socio-\u00e9conomique durable et \u00e9quitable, affirme Haddad. Il a pr\u00e9conis\u00e9 le renforcement des capacit\u00e9s parlementaires, en particulier en mati\u00e8re de formation d'experts, de plateformes de suivi des d\u00e9penses publiques. Il souligne \u00e9galement l'importance de cr\u00e9er des partenariats avec des institutions acad\u00e9miques internationales pour former les Parlementaires aux enjeux budg\u00e9taires.",
+              "sources_info": [
+                  {
+                      "source": "l'oponion",
+                      "date": "2024-11-03",
+                      "url": "https://www.lopinion.ma/Gestion-des-finances-publiques-necessite-d-ameliorer-la-coordination-entre-les-differentes-instances-de-controle-selon_a59744.html",
+                      "title": "Gestion des finances publiques : n\u00e9cessit\u00e9 d'am\u00e9liorer la coordination entre les diff\u00e9rentes instances de contr\u00f4le, selon Haddad"
+                  }
+              ],
+              "keywords": [
+                  "finances",
+                  "publiques",
+                  "parlementaires",
+                  "haddad",
+                  "cadre"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 2590.0
+              }
+          },
+          {
+              "summary": "La visite du pr\u00e9sident Macron au Maroc marque le d\u00e9but d'un nouveau chapitre dans les relations bilat\u00e9rales. Le ministre de l'\u00c9tat a d\u00e9clar\u00e9 que le partenariat \u00ab repose sur une approche de collaboration authentique \u00bb. Le pr\u00e9sident fran\u00e7ais et le souverain signent une d\u00e9claration de grande importance relative au Partenariat d\u2019exception renforc\u00e9. Les accords sign\u00e9s \u00e0 la suite de la r\u00e9union de la Maison Blanche ont ouvert la voie \u00e0 de nouveaux engagements.",
+              "sources_info": [
+                  {
+                      "source": "l'oponion",
+                      "date": "2024-11-03",
+                      "url": "https://www.lopinion.ma/Nasser-Bourita-au-Point-La-visite-d-Etat-au-Maroc-du-president-Macron-a-marque-le-debut-d-un-nouveau-chapitre-dans-les_a59743.html",
+                      "title": "Nasser Bourita au Point : La visite d\u2019Etat au Maroc du pr\u00e9sident Macron a marqu\u00e9 le d\u00e9but d\u2019un nouveau chapitre dans les relations bilat\u00e9rales"
+                  }
+              ],
+              "keywords": [
+                  "ministre",
+                  "pays",
+                  "sahel",
+                  "initiative",
+                  "d\u00e9claration"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 4851.0
+              }
+          },
+          {
+              "summary": "Le g\u00e9n\u00e9ral de corps d\u2019arm\u00e9e s\u2019entretient avec le ministre mauritanien de la d\u00e9fense. Le ministre de la D\u00e9fense a d\u00e9clar\u00e9 que le corps n\u2019avait pas \u00e9t\u00e9 retrouv\u00e9. L\u2019incident a eu lieu apr\u00e8s que le g\u00e9n\u00e9ral ait \u00e9t\u00e9 renvoy\u00e9 \u00e0 l\u2019arm\u00e9e pour enqu\u00eater sur les all\u00e9gations selon lesquelles il y avait des armes \u00e0 feu.",
+              "sources_info": [
+                  {
+                      "source": "le360",
+                      "date": "2024-11-01",
+                      "url": "https://fr.le360.ma/politique/cooperation-militaire-le-general-de-corps-darmee-sentretient-avec-le-ministre-mauritanien-de-la_TKVU6FYX6VDITHDBWRHVB42VRE/",
+                      "title": "Coop\u00e9ration militaire: le g\u00e9n\u00e9ral de corps d\u2019arm\u00e9e s\u2019entretient avec le ministre mauritanien de la D\u00e9fense"
+                  }
+              ],
+              "keywords": [
+                  "coop\u00e9ration",
+                  "militaire",
+                  "g\u00e9n\u00e9ral",
+                  "corps",
+                  "arm\u00e9e"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "01/11/2024",
+                      "end": "01/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 22.0
+              }
+          }
+      ],
+      "total_articles": 11
+  },
+  "Culture_Patrimoine": {
+      "clusters": [
+          {
+              "summary": "Le minist\u00e8re de la Jeunesse, de la Culture et de la Communication a d\u00e9voil\u00e9 le bilan financier d\u00e9taill\u00e9 du Fonds pour la promotion du paysage audiovisuel. Le budget s\u2019\u00e9l\u00e8ve \u00e0 2,7 MMDH au cours des quatre derni\u00e8res ann\u00e9es. Le Fonds vise \u00e0 apporter un soutien financier essentiel aux soci\u00e9t\u00e9s de production d\u2019uvres audiovizuelles nationales, ainsi qu\u2019aux organisateurs de festivals d\u00e9di\u00e9s au cin\u00e9ma.",
+              "sources_info": [
+                  {
+                      "source": "Hespress",
+                      "date": "2024-11-03",
+                      "url": "https://fr.hespress.com/391756-promotion-du-paysage-audiovisuel-bilan-financier-du-fonds-4-ans-devaluation.html",
+                      "title": "Promotion du paysage audiovisuel: Bilan financier du Fonds, 4 ans d'\u00e9valuation"
+                  }
+              ],
+              "keywords": [
+                  "mdh",
+                  "recettes",
+                  "audiovisuel",
+                  "fonds",
+                  "secteur"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 4210.0
+              }
+          },
+          {
+              "summary": "Les temp\u00e9ratures attendues ce dimanche 3 novembre 2024 Voici les conditions m\u00e9t\u00e9orologiques minimales et maximales pour la journ\u00e9e. Oujda 09 24 \u2013 Bouarfa 08 22 \u2013 Al Hoceima 16 24 - Sebta 17 18 \u2013 Mellilia 14 19 \u2013 Rabat 14 23 \u2013 Casablanca 15 23 - El Jadida 15 24 Le mercredi 3 novembre \u2013 Moyen-Orient 12 25 \u2013 Marrakech 13 26 \u2013 B\u00e9ni Mellal 12 25.",
+              "sources_info": [
+                  {
+                      "source": "Hespress",
+                      "date": "2024-11-03",
+                      "url": "https://fr.hespress.com/394187-les-temperatures-attendues-ce-dimanche-3-novembre-2024.html",
+                      "title": "Les temp\u00e9ratures attendues ce dimanche 3 novembre 2024"
+                  }
+              ],
+              "keywords": [
+                  "temp\u00e9ratures",
+                  "dimanche",
+                  "novembre",
+                  "attendues",
+                  "minimales"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 638.0
+              }
+          }
+      ],
+      "total_articles": 2
+  },
+  "Sport_National": {
+      "clusters": [
+          {
+              "summary": "L'AS FAR a battu la Renaissance de Zemamra par 1 but \u00e0 0, en 9e journ\u00e9e de la Botola Pro D1 \u00ab Inwi \u00bb. Le but des Militaires a \u00e9t\u00e9 inscrit par Amine Zouhzouh (53e). La Renaissance partage la sixi\u00e8me place avec le Hassania d'Agadir avec 13 unit\u00e9s. La FAR se situe actuellement au sixi\u00e8me rang avec 16 points.",
+              "sources_info": [
+                  {
+                      "source": "Hespress",
+                      "date": "2024-11-03",
+                      "url": "https://fr.hespress.com/394294-botola-victoire-de-las-far-sur-la-renaissance-de-zemamra.html",
+                      "title": "Botola : Victoire de l\u2019AS FAR sur la Renaissance de Zemamra"
+                  }
+              ],
+              "keywords": [
+                  "far",
+                  "renaissance",
+                  "zemamra",
+                  "botola",
+                  "but"
+              ],
+              "metrics": {
+                  "article_count": 1,
+                  "unique_sources": 1,
+                  "temporal_span": {
+                      "start": "03/11/2024",
+                      "end": "03/11/2024",
+                      "duration_days": 1
+                  },
+                  "average_article_length": 417.0
+              }
+          }
+      ],
+      "total_articles": 1
+  }
+}
