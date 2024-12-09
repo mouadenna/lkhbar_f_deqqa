@@ -1,4 +1,5 @@
 # Khbar f'deqqa (News at Once)
+<img src="demo.png" alt="Workflow Chart" width="900"/>
 
 ## Overview
 
