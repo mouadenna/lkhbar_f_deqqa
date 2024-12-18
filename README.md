@@ -51,7 +51,7 @@ flowchart TD
     end
 
     %% Schedule triggers
-    CE -->|"Triggers every 1 hour"| LambdaScraper
+    CE -->|"Triggers every 24 hours"| LambdaScraper
 
     %% Data collection flow
     LambdaScraper -->|"Scrapes"| NewsSource1
@@ -83,7 +83,7 @@ flowchart TD
 ## Components
 
 ### Scheduling
-- **CloudWatch Events (CE)**: Triggers the news scraping process every hour.
+- **CloudWatch Events (CE)**: Triggers the news scraping process every 24 hours.
 
 ### Data Collection Layer
 - **AWS Lambda (News Scraper)**: Responsible for scraping news articles from various sources.
