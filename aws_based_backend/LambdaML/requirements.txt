@@ -1,8 +1,9 @@
-torch>=1.7.0
-transformers>=4.0.0
-nltk>=3.5
-spacy>=3.0
-sentence-transformers>=2.0.0
-scikit-learn>=0.24.0
-numpy>=1.19.0
-logging
+--find-links https://download.pytorch.org/whl/torch_stable.html
+transformers==4.31.0
+torch==2.0.1+cpu
+sentencepiece==0.1.99
+protobuf==3.20.3
+sentence-transformers==2.2.2
+huggingface_hub==0.16.4
+scikit-learn==1.3.0
+numpy==1.24.3
