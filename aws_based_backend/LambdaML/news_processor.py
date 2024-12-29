@@ -416,7 +416,15 @@ def lambda_handler(event, context):
     processor = AdvancedNewsProcessor()
     articles = event['articles']
     processed_data = processor.process_articles(articles)
+
+    s3_key = f"processed_data/{datetime.now().date().isoformat()}.json"  # Generate a unique key for the file
+    s3.put_object(
+        Bucket='processednewsbucket',
+        Key=s3_key,
+        Body=json.dumps(processed_data),  # Convert to JSON string
+        ContentType='application/json'
+    )
     return {
         'statusCode': 200,
-        'body': json.dumps(processed_data)
+        'body': json.dumps({'message': 'Data processed and saved to S3'})
     }
